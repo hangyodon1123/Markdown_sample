@@ -1,6 +1,7 @@
 # Markdown_sample
 
 + Only Japanese.
++ LaTeX（数式表現）は、未対応か？
 
 ---
 # 水平線
